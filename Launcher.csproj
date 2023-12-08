@@ -100,6 +100,14 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="logo.ico" />
+    <None Include="Resources\images__1_-removebg-preview.png" />
+    <None Include="Resources\images %281%29.jpeg" />
+    <None Include="Resources\eurotruck.png" />
+    <None Include="Resources\prov %281%29.png" />
+    <None Include="Resources\web %281%29.png" />
+    <None Include="Resources\close.png" />
+    <None Include="Resources\pngegg %281%29.png" />
+    <None Include="Resources\backgound.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

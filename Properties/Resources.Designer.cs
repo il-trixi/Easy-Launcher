@@ -73,6 +73,36 @@ namespace Launcher.Properties {
         /// <summary>
         ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap backgound {
+            get {
+                object obj = ResourceManager.GetObject("backgound", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap close {
+            get {
+                object obj = ResourceManager.GetObject("close", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap eurotruck {
+            get {
+                object obj = ResourceManager.GetObject("eurotruck", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap fivem {
             get {
                 object obj = ResourceManager.GetObject("fivem", resourceCulture);
@@ -93,6 +123,46 @@ namespace Launcher.Properties {
         /// <summary>
         ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap images__1_ {
+            get {
+                object obj = ResourceManager.GetObject("images (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap images__1__removebg_preview {
+            get {
+                object obj = ResourceManager.GetObject("images__1_-removebg-preview", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngegg__1_ {
+            get {
+                object obj = ResourceManager.GetObject("pngegg (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap prov__1_ {
+            get {
+                object obj = ResourceManager.GetObject("prov (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap rocket {
             get {
                 object obj = ResourceManager.GetObject("rocket", resourceCulture);
@@ -106,6 +176,16 @@ namespace Launcher.Properties {
         internal static System.Drawing.Bitmap sfond {
             get {
                 object obj = ResourceManager.GetObject("sfond", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap web__1_ {
+            get {
+                object obj = ResourceManager.GetObject("web (1)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
